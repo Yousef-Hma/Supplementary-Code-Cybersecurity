@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/youse/OneDrive/Desktop/Final Year Project/Programs/Assembly/main.c
+stdio.h
+C:/Users/youse/OneDrive/Desktop/Final Year Project/Programs/Assembly/stdio.h
+

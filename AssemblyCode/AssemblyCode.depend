@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613502551 source:c:\users\youse\onedrive\desktop\final year project\programs\assemblycode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
