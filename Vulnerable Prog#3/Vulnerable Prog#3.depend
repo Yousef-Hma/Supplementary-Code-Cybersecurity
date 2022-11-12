@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1621709516 source:c:\users\youse\onedrive\desktop\final year project\programs\vulnerable prog#3\main.c
+	<stdio.h>
+	<windows.h>
+	<winbase.h>
+
+1629142227 source:c:\users\youse\onedrive\desktop\university\masters\final year project\programs\vulnerable prog#3\main.c
+	<stdio.h>
+	<windows.h>
+	<winbase.h>
+

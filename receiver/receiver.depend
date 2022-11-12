@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1611272810 source:c:\users\youse\onedrive\desktop\advanced computational eng\phil sewell\receiver\main.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1611849328 source:c:\users\youse\onedrive\desktop\final year project\programs\receiver\main.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1611845728 source:c:\users\youse\onedrive\desktop\university\masters\final year project\programs\receiver\main.c
+	<stdio.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1611280051 source:c:\users\youse\onedrive\desktop\advanced computational eng\phil sewell\sender\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1611848548 source:c:\users\youse\onedrive\desktop\final year project\programs\sender\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+
+1611844948 source:c:\users\youse\onedrive\desktop\university\masters\final year project\programs\sender\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+

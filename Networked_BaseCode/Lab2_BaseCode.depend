@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1611438646 source:c:\users\youse\onedrive\desktop\advanced computational eng\phil sewell\lab2_basecode\basecode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1613759516 source:c:\users\youse\onedrive\desktop\final year project\programs\lab2_basecode\basecode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1613759516 source:c:\users\youse\onedrive\desktop\final year project\programs\networked_basecode\basecode.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
